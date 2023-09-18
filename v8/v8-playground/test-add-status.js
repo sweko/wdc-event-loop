@@ -1,4 +1,5 @@
 // use node --allow-natives-syntax .\test-add-status.js to run this example
+// https://github.com/v8/v8/blob/master/src/runtime/runtime.h#L868
 
 console.log("    1 - It is a function");
 console.log("   16 - Optimized");
